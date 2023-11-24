@@ -10,6 +10,7 @@ function GuessInput({ handleSubmitGuess }) {
       return;
     }
     handleSubmitGuess(guess);
+    setGuess("");
   }
 
   return (
