@@ -6,7 +6,7 @@ function Header() {
       <h1>
         Word Game{" "}
         <small>
-          by <a href="https://github.com/ter1203/wordle/">Terrance</a>{" "}
+          by <a href="https://github.com/ter1203/wordle/">Terry</a>{" "}
         </small>
       </h1>
     </header>
